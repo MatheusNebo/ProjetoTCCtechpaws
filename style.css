@@ -233,3 +233,10 @@ button:hover {
     right: 20px;
     z-index: 1001;
 }
+
+.divlista{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    align-items: center;
+}
